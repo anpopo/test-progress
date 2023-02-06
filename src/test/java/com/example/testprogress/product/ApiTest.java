@@ -1,4 +1,4 @@
-package com.example.testprogress;
+package com.example.testprogress.product;
 
 import io.restassured.RestAssured;
 import org.junit.jupiter.api.BeforeEach;

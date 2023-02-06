@@ -1,6 +1,5 @@
 package com.example.testprogress.product;
 
-import com.example.testprogress.ApiTest;
 import io.restassured.RestAssured;
 import io.restassured.response.ExtractableResponse;
 import io.restassured.response.Response;

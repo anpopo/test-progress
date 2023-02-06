@@ -1,4 +1,4 @@
-package com.example.testprogress;
+package com.example.testprogress.product;
 
 import com.google.common.base.CaseFormat;
 import jakarta.persistence.Entity;
